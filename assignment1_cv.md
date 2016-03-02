@@ -4,9 +4,12 @@
 
 Laura Farny
 ===============
+- - - - - - - -
 
+- - - - - - - -
 Personal information
 ---------------
+- - - - - - - -
 
 ##### Date of birth:  15.07.1990
 
@@ -18,9 +21,10 @@ Personal information
 
 ##### Cell:           +31 6 36 277498
  
- 
+- - - - - - - - 
 Education
 ---------------
+- - - - - - - -
 
 ##### 02/2016 -		  
 * Tilburg University - Master of Science: Behavioral Economics
@@ -34,10 +38,11 @@ Education
 ##### 08/2003 - 06/2010 
 * Ratsgymnasium Wolfsburg (Secondary School) - Diploma: Higher education entrance qualification
  
- 
+- - - - - - - -
 Professional Experience
 ---------------
-
+- - - - - - - -
+ 
 ##### 11/2015 - 01/2016 
 * Internship at TWINKIND GmbH
 	* Business Development
@@ -47,9 +52,10 @@ Professional Experience
 * Internship at Volkswagen de México
 	* Corporate Communications
  	 					
- 
+- - - - - - - - 
 Second Jobs
 ---------------
+- - - - - - - -
 
 ##### 07/2014 - 08/2014 
 * Temporary worker at the assembly line Volkswagen factory in Wolfsburg
@@ -65,9 +71,10 @@ Second Jobs
 ##### 08/2010 - 09/2011 
 * Au Pair in the USA
  
- 
+- - - - - - - - 
 Additional Skills
 ---------------
+- - - - - - - -
 
 * Language Skills
     * German (native)
@@ -84,7 +91,7 @@ Additional Skills
 * Driving Skills
     * License Category B
 			
- 
+- - - - - - - -
 
 #### Tilburg, 02.03.2016
 

@@ -8,15 +8,15 @@ Laura Farny
 Personal information
 ---------------
 
-#### Date of birth:  15.07.1990
+##### Date of birth:  15.07.1990
 
-#### Place of birth: Wolfsburg, Germany
+##### Place of birth: Wolfsburg, Germany
 
-#### Address:        Prof. Cobbenhagenlaan 400, 5037 DH Tilburg
+##### Address:        Prof. Cobbenhagenlaan 400, 5037 DH Tilburg
 
-#### Email:          laura.farny@web.de
+##### Email:          laura.farny@web.de
 
-#### Cell:           +31 6 36 277498
+##### Cell:           +31 6 36 277498
  
  
 Education
